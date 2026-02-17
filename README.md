@@ -1,1 +1,1 @@
-# c_programming_basics
+# c_programming_prectice
